@@ -1,3 +1,4 @@
+''' This module is deprecated and will be removed in a later version of BlueSky-gym. '''
 from warnings import deprecated
 from bluesky.simulation import ScreenIO
 
